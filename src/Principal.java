@@ -1,14 +1,8 @@
 import java.util.Scanner;
 
-
-
-
 public class Principal {
 
-
-
     public static void main(String[] args) {
-
         Menu menu = new Menu();
         ConsultaMoneda consulta = new ConsultaMoneda();
         Scanner teclado = new Scanner(System.in);
@@ -19,12 +13,8 @@ public class Principal {
 
         while (opcion != 7) {
             menu.generaMenu();
-
             try {
                 opcion = Integer.parseInt(teclado.nextLine());
-                System.out.println(opcion);
-
-
                 switch (opcion) {
                     case 1:
                         moneda1= "USD";
@@ -60,7 +50,7 @@ public class Principal {
                     System.out.print("Ingrese Monto: ");
                     double monto = Double.parseDouble(teclado.nextLine());
                     Moneda moneda = consulta.buscaMoneda(moneda1, moneda2, monto);
-                    System.out.println("\nEl monto solicitado para la conversion es: " + monto +" " + moneda+"\n\n");
+                    System.out.println("\nEl monto solicitado para la conversion es: " + monto +" " + moneda + " " +moneda2+" \n\n");
                 }
 
             } catch (NumberFormatException e) {
