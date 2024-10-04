@@ -3,6 +3,8 @@
 ## Descripción
 Este proyecto es un programa en Java que permite convertir una divisa a otra utilizando un menú con opciones predefinidas. El usuario interactúa con el programa a través del teclado para elegir la opción de conversión y el monto deseado.
 
+Utiliza API: https://www.exchangerate-api.com/
+
 ## Funcionalidades
 - Conversión entre múltiples divisas.
 - Menú interactivo para seleccionar la divisa de origen y destino.
