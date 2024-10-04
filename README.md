@@ -1,53 +1,43 @@
-# Conversor de Monedas 
+# Conversor de Monedas
 
-**Descripción**
+## Descripción
+Este proyecto es un programa en Java que permite convertir una divisa a otra utilizando un menú con opciones predefinidas. El usuario interactúa con el programa a través del teclado para elegir la opción de conversión y el monto deseado.
 
-Este proyecto es un programa en Java que permite convertir fácilmente una divisa a otra. Ofrece una interfaz de usuario intuitiva para seleccionar las divisas y el monto a convertir.
+## Funcionalidades
+- Conversión entre múltiples divisas.
+- Menú interactivo para seleccionar la divisa de origen y destino.
+- Entrada de datos por teclado para el monto a convertir.
+- Resultados precisos y rápidos.
 
-**Funcionalidades**
+## Uso
+1. Al ejecutar el programa, se mostrará un menú con las opciones de divisas disponibles.
+2. Selecciona la divisa de origen ingresando el número correspondiente.
+3. Selecciona la divisa de destino ingresando el número correspondiente.
+4. Ingresa el monto que deseas convertir.
+5. El programa mostrará el resultado de la conversión.
 
-* **Conversión múltiple:** Permite convertir entre diversas monedas.
-* **Menú interactivo:** Ofrece un menú sencillo para elegir las divisas.
-* **Entrada de datos:** Permite al usuario introducir el monto a convertir.
-* **Resultados precisos:** Proporciona resultados de conversión confiables.
-
-**Uso**
-
-1. **Clonar el repositorio:**
+## Instalación
+1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone [https://github.com/tu-usuario/conversor-de-monedas.git](https://github.com/tu-usuario/conversor-de-monedas.git)
-Usa el código con precaución.
+   git clone https://github.com/tu-usuario/conversor-de-monedas.git
 
-Acceder al directorio:
-Bash
-cd conversor-de-monedas
-Usa el código con precaución.
+2. Navega al directorio del proyecto:
+   ```bash
+   cd conversor-de-monedas
 
-Compilar:
-Bash
-javac CurrencyConverter.java
-Usa el código con precaución.
+3. Compila el programa:
+   ```bash
+   javac CurrencyConverter.java
 
-Ejecutar:
-Bash
-java CurrencyConverter
-Usa el código con precaución.
+4. Ejecuta el programa:
+   ```bash
+   java CurrencyConverter
 
-Sigue las instrucciones en pantalla.
-Instalación
+## Ayuda
+Si necesitas ayuda con este proyecto, puedes encontrar más información en la sección de Issues de este repositorio. También puedes contactar a los autores directamente.
 
-[Aquí puedes agregar instrucciones más detalladas si es necesario, como requisitos previos o dependencias.]
+## Autores
+- **Orlando ** - *Desarrollador Principal* - Orlando
 
-Contribuciones
-
-Las contribuciones son bienvenidas. Si encuentras algún error o deseas agregar nuevas funcionalidades, por favor, abre un issue.
-
-Autores
-
-Orlando Rozas Ibáñez - Desarrollador Principal - orlando-rozas
-Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-
-
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles
