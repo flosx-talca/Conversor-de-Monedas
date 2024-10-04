@@ -23,18 +23,6 @@ Utiliza API: https://www.exchangerate-api.com/
    ```bash
    git clone https://github.com//flosx-talca/Conversor-de-Monedas.git
 
-2. Navega al directorio del proyecto:
-   ```bash
-   cd conversor-de-monedas
-
-3. Compila el programa:
-   ```bash
-   javac CurrencyConverter.java
-
-4. Ejecuta el programa:
-   ```bash
-   java CurrencyConverter
-
 ## Ayuda
 Si necesitas ayuda con este proyecto, puedes encontrar más información en la sección de Issues de este repositorio. También puedes contactar a los autores directamente.
 
