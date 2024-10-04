@@ -19,7 +19,7 @@ Este proyecto es un programa en Java que permite convertir una divisa a otra uti
 ## Instalación
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/conversor-de-monedas.git
+   git clone https://github.com//flosx-talca/Conversor-de-Monedas.git
 
 2. Navega al directorio del proyecto:
    ```bash
