@@ -1,9 +1,3 @@
-## Signos de Monedas del Mundo
-
-!Signos de Monedas del Mundo
-
-[https://raw.githubusercontent.com/flosx-talca/Conversor-de-Monedas/refs/heads/main/conversor%20de%20monedas.jfif](https://github.com/flosx-talca/Conversor-de-Monedas/blob/main/OIG4.jpg?raw=true)
-
 # Conversor de Monedas
 
 ## Descripción
