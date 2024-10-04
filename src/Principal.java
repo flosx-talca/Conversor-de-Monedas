@@ -23,7 +23,7 @@ public class Principal {
                 switch (opcion) {
                     case 1:
                         System.out.println("1");
-                        Moneda moneda = consulta.buscaMoneda("USD", "CLP", 2500);
+                        Moneda moneda = consulta.buscaMoneda("USD", "CLP",1);
                         System.out.println(moneda);
                         break;
                     case 2:

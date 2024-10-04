@@ -15,5 +15,4 @@ public class Menu {
                     + "*******************************************\n";
         System.out.println(menu);
     }
-
 }
